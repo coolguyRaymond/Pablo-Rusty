@@ -1,0 +1,8 @@
+{
+  "id": "intent_price_change",
+  "transcript": "Change the price of Porter St for Wattle and Bloom to twenty eight dollars a kilo.",
+  "receivedAt": "2026-11-24T23:30:00Z",
+  "requests": [
+    { "type": "change_price", "cafeText": "Wattle and Bloom", "productText": "Porter St", "newPricePerKg": 28, "confidence": 0.9 }
+  ]
+}

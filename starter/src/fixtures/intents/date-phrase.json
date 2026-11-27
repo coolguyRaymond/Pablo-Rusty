@@ -1,0 +1,8 @@
+{
+  "id": "intent_date_phrase",
+  "transcript": "Remind me Friday to send the new Trailblazer samples to Wattle and Bloom.",
+  "receivedAt": "2026-11-26T22:30:00Z",
+  "requests": [
+    { "type": "create_reminder", "text": "Send the new Trailblazer samples to Wattle and Bloom", "datePhrase": "Friday", "confidence": 0.94 }
+  ]
+}

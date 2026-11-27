@@ -1,0 +1,8 @@
+{
+  "id": "intent_odd_quantity",
+  "transcript": "Wattle and Bloom need two hundred kilos of Trailblazer.",
+  "receivedAt": "2026-11-24T23:30:00Z",
+  "requests": [
+    { "type": "order_request", "cafeText": "Wattle and Bloom", "productText": "Trailblazer", "quantityKg": 200, "confidence": 0.62 }
+  ]
+}

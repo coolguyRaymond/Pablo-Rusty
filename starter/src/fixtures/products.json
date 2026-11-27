@@ -1,0 +1,8 @@
+[
+  { "id": "prod_pioneer", "name": "Pioneer", "aliases": ["pioneer blend"], "kind": "blend", "active": true },
+  { "id": "prod_porter", "name": "Porter St", "aliases": ["porter street", "porter"], "kind": "blend", "active": true },
+  { "id": "prod_trailblazer", "name": "Trailblazer", "aliases": ["trail blazer"], "kind": "blend", "active": true },
+  { "id": "prod_decaf", "name": "Swiss Water Decaf", "aliases": ["decaf"], "kind": "blend", "active": true },
+  { "id": "prod_colombia", "name": "Colombia Huila", "aliases": ["huila", "colombian"], "kind": "single_origin", "active": true },
+  { "id": "prod_ethiopia", "name": "Ethiopia Guji", "aliases": ["guji", "ethiopian"], "kind": "single_origin", "active": false }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "intent_clean",
+  "transcript": "Log a visit to Harbour Lane Cafe, they want two more kilos of Pioneer next week, remind me Friday.",
+  "receivedAt": "2026-11-24T23:30:00Z",
+  "requests": [
+    { "type": "log_visit", "cafeText": "Harbour Lane Cafe", "note": "Visit. Wants two more kilos of Pioneer next week.", "confidence": 0.96 },
+    { "type": "order_request", "cafeText": "Harbour Lane Cafe", "productText": "Pioneer", "quantityKg": 2, "neededByText": "next week", "confidence": 0.93 },
+    { "type": "create_reminder", "text": "Follow up with Harbour Lane Cafe about Pioneer", "datePhrase": "Friday", "confidence": 0.9 }
+  ]
+}

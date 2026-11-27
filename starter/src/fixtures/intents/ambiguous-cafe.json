@@ -1,0 +1,10 @@
+{
+  "id": "intent_ambiguous_cafe",
+  "transcript": "Log a visit to Corner Bean, they want two more kilos of Pioneer next week, remind me Friday.",
+  "receivedAt": "2026-11-24T23:30:00Z",
+  "requests": [
+    { "type": "log_visit", "cafeText": "Corner Bean", "note": "Visit. Wants two more kilos of Pioneer next week.", "confidence": 0.88 },
+    { "type": "order_request", "cafeText": "Corner Bean", "productText": "Pioneer", "quantityKg": 2, "neededByText": "next week", "confidence": 0.85 },
+    { "type": "create_reminder", "text": "Follow up with Corner Bean about Pioneer", "datePhrase": "Friday", "confidence": 0.72 }
+  ]
+}

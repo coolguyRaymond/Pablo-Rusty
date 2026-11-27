@@ -1,0 +1,8 @@
+{
+  "id": "intent_unknown_product",
+  "transcript": "Harbour Lane want five kilos of the Midnight Roast on Monday.",
+  "receivedAt": "2026-11-24T23:30:00Z",
+  "requests": [
+    { "type": "order_request", "cafeText": "Harbour Lane", "productText": "Midnight Roast", "quantityKg": 5, "neededByText": "Monday", "confidence": 0.71 }
+  ]
+}

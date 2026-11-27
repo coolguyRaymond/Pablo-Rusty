@@ -1,0 +1,7 @@
+{
+  "id": "user_rep_01",
+  "displayName": "Sample Rep",
+  "role": "cafe_network_rep",
+  "permissions": ["visit.log", "order.request", "reminder.create"],
+  "accountIds": ["cafe_001", "cafe_002", "cafe_003", "cafe_004"]
+}

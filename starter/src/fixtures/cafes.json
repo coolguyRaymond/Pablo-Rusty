@@ -1,0 +1,8 @@
+[
+  { "id": "cafe_001", "name": "Harbour Lane Cafe", "suburb": "Pyrmont", "active": true },
+  { "id": "cafe_002", "name": "Corner Bean", "suburb": "Newtown", "active": true },
+  { "id": "cafe_003", "name": "The Corner Bean Roasters", "suburb": "Marrickville", "active": true },
+  { "id": "cafe_004", "name": "Wattle and Bloom", "suburb": "Surry Hills", "active": true },
+  { "id": "cafe_005", "name": "Reservoir Social", "suburb": "Surry Hills", "active": true },
+  { "id": "cafe_006", "name": "Old Mill Cafe", "suburb": "Balmain", "active": false }
+]
